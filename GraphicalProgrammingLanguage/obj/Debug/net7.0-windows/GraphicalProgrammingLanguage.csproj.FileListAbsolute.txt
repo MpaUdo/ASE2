@@ -1,0 +1,103 @@
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.exe
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.deps.json
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.runtimeconfig.json
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.pdb
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.AssemblyReference.cache
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Form1.resources
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Properties.Resources.resources
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.GenerateResource.cache
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfoInputs.cache
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfo.cs
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.CoreCompileInputs.cache
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.CopyComplete
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\refint\GraphicalProgrammingLanguage.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.pdb
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.genruntimeconfig.cache
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\ref\GraphicalProgrammingLanguage.dll
+C:\Users\NWA_ERI EJIAMIKE\source\repos\GraphicalProgrammingLanguage\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GPLDocumentation.xml
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.AssemblyReference.cache
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Form1.resources
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Properties.Resources.resources
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.GenerateResource.cache
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfoInputs.cache
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfo.cs
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.CoreCompileInputs.cache
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.sourcelink.json
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\refint\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.pdb
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.AssemblyReference.cache
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Form1.resources
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Properties.Resources.resources
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.GenerateResource.cache
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfoInputs.cache
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfo.cs
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.CoreCompileInputs.cache
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.sourcelink.json
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\refint\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\source\repos\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.pdb
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.exe
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.deps.json
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.runtimeconfig.json
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\GraphicalProgrammingLanguage.pdb
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ASE_Project
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.AssemblyReference.cache
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Form1.resources
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.Properties.Resources.resources
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.GenerateResource.cache
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfoInputs.cache
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.AssemblyInfo.cs
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.CoreCompileInputs.cache
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.sourcelink.json
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.csproj.CopyComplete
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\refint\GraphicalProgrammingLanguage.dll
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.pdb
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\GraphicalProgrammingLanguage.genruntimeconfig.cache
+C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\obj\Debug\net7.0-windows\ref\GraphicalProgrammingLanguage.dll
