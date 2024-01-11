@@ -18,15 +18,9 @@ namespace GraphicalProgrammingLanguage
         private Point penPosition;
         private Dictionary<string, int> variables;
         private Dictionary<string, string> functions = new Dictionary<string, string>();
-        //private Dictionary<string, List<string>> functions = new Dictionary<string, List<string>>();
         private Dictionary<string, Action<string[]>> userDefinedFunctions;
-        private bool inFunctionBlock = false;
-        //private Color currentColor = Color.Black;
         private Color currentDrawingColor = Color.Black;
-        //private double currentRotationAngle;
-        //private float currentRotationAngle = 0;
         private Random random = new Random();
-        //private PenAndPointer penAndPointer;
         private SemaphoreSlim semaphore = new SemaphoreSlim(1, 1);
 
         /// <summary>
@@ -45,7 +39,7 @@ namespace GraphicalProgrammingLanguage
             drawingGraphics = graphics;
             penPosition = new Point(0, 0);
             variables = new Dictionary<string, int>();
-            //penAndPointer = new PenAndPointer(graphics, penSize, penColor);
+            
         }
         /// <summary>
         /// Checks if a given condition is true.
@@ -111,29 +105,7 @@ namespace GraphicalProgrammingLanguage
                 throw new ArgumentException($"Function '{functionName}' not defined.");
             }
         }
-        /// <summary>
-        /// Executes a for loop with the specified initialization, condition, iteration, and block of commands.
-        /// </summary>
-        /// <param name="initialization">The initialization part of the for loop.</param>
-        /// <param name="condition">The condition to check in each iteration.</param>
-        /// <param name="iteration">The iteration part of the for loop.</param>
-        /// <param name="block">The block of commands inside the for loop.</param>
-        private void ExecuteForLoop(string initialization, string condition, string iteration, string block)
-        {
-            // Execute initialization
-            ExecuteCommand(initialization);
-
-            // Continue loop while the condition is true
-            while (CheckCondition(condition))
-            {
-                // Execute the block of commands inside the loop
-                ExecuteConditionalBlock(block);
-
-                // Execute the iteration
-                ExecuteCommand(iteration);
-            }
-        }
-
+        
         /// <summary>
         /// Executes a series of commands.
         /// </summary>
@@ -238,15 +210,6 @@ namespace GraphicalProgrammingLanguage
                 string condition = ExtractCondition(command);
                 ExecuteIfStatement(condition, command.Substring(command.IndexOf('{') + 1, command.LastIndexOf('}') - command.IndexOf('{') - 1).Trim());
             }
-            else if (command.StartsWith("for"))
-            {
-                // Example: for(initialization; condition; iteration) { /* commands */ }
-                string initialization = ExtractForPart(command, "for", "(", ";");
-                string condition = ExtractForPart(command, ";", ";", ")");
-                string iteration = ExtractForPart(command, ";", "{", ")");
-
-                ExecuteForLoop(initialization, condition, iteration, command.Substring(command.IndexOf('{') + 1, command.LastIndexOf('}') - command.IndexOf('{') - 1).Trim());
-            }
             else if (command.StartsWith("rot"))
             {
                 // Example: rotate(90)
@@ -260,45 +223,7 @@ namespace GraphicalProgrammingLanguage
                     throw new ArgumentException("Invalid parameters for rotate command.");
                 }
             }
-            //else if (command.StartsWith("colrec"))
-            //{
-            //    // Example: colrect(100, 50, Color.Red)
-            //    string[] parameters = ExtractParameters(command);
-            //    if (parameters.Length == 3 && int.TryParse(parameters[0], out int width) && int.TryParse(parameters[1], out int height) && Color.FromName(parameters[2]) != null)
-            //    {
-            //        FillRectangle(width, height, Color.FromName(parameters[2]));
-            //    }
-            //    else
-            //    {
-            //        throw new ArgumentException("Invalid parameters for colrect command.");
-            //    }
-            //}
-            //else if (command.StartsWith("coltri"))
-            //{
-            //    // Example: coltri(100, 50, Color.Blue)
-            //    string[] parameters = ExtractParameters(command);
-            //    if (parameters.Length == 3 && int.TryParse(parameters[0], out int width) && int.TryParse(parameters[1], out int height) && Color.FromName(parameters[2]) != null)
-            //    {
-            //        FillTriangle(width, height, Color.FromName(parameters[2]));
-            //    }
-            //    else
-            //    {
-            //        throw new ArgumentException("Invalid parameters for coltri command.");
-            //    }
-            //}
-            //else if (command.StartsWith("colcir"))
-            //{
-            //    // Example: colcir(30, Color.Green)
-            //    string[] parameters = ExtractParameters(command);
-            //    if (parameters.Length == 2 && int.TryParse(parameters[0], out int radius) && Color.FromName(parameters[1]) != null)
-            //    {
-            //        FillCircle(radius, Color.FromName(parameters[1]));
-            //    }
-            //    else
-            //    {
-            //        throw new ArgumentException("Invalid parameters for fillcir command.");
-            //    }
-            //}
+            
             else if (command.StartsWith("rds"))
             {
                 DrawRandomShape();
@@ -412,22 +337,12 @@ namespace GraphicalProgrammingLanguage
             throw new ArgumentException("Invalid if statement format");
         }
 
-        private string ExtractForPart(string command, string startDelimiter, string endDelimiter, string stopDelimiter)
-        {
-            int startIndex = command.IndexOf(startDelimiter) + startDelimiter.Length;
-            int endIndex = command.IndexOf(endDelimiter);
-            int stopIndex = command.IndexOf(stopDelimiter);
 
-            if (startIndex >= 0 && endIndex >= 0 && stopIndex >= 0)
-            {
-                return command.Substring(startIndex, endIndex - startIndex).Trim();
-            }
-            throw new ArgumentException($"Invalid 'for' loop statement format: {command}");
-        }
         /// <summary>
         /// Sets variables based on a command that assigns values to them.
         /// </summary>
-        /// <param name="command">The command to set variables from.</param>
+        /// <param name="variableName">The command to set variables from.</param>
+        /// <param name="value">The command to set values</param>
         private void SetVariable(string variableName, int value)
         {
             if (variables.ContainsKey(variableName))
@@ -531,7 +446,7 @@ namespace GraphicalProgrammingLanguage
         /// <summary>
         /// Draws a circle based on the provided command.
         /// </summary>
-        /// <param name="command">The command containing circle parameters.</param>
+        /// <param name="commands">The command containing circle parameters.</param>
         private void DrawCircle(string command)
         {
             string[] parameters = ExtractParameters(command);
@@ -596,38 +511,6 @@ namespace GraphicalProgrammingLanguage
             {
                 throw new ArgumentException($"Invalid parameter: {parameter}");
             }
-        }
-        public void FillRectangle(int width, int height, Color fillColor)
-        {
-            semaphore.Wait();
-            var brush = new SolidBrush(fillColor);
-            drawingGraphics.FillRectangle(brush, penPosition.X, penPosition.Y, width, height);
-            penPosition = new Point(penPosition.X + width, penPosition.Y + height);
-            semaphore.Release();
-        }
-
-        public void FillTriangle(int width, int height, Color fillColor)
-        {
-            semaphore.Wait();
-            var brush = new SolidBrush(fillColor);
-            Point[] points =
-            {
-        penPosition,
-        new Point(penPosition.X + width, penPosition.Y),
-        new Point(penPosition.X + width / 2, penPosition.Y + height)
-    };
-            drawingGraphics.FillPolygon(brush, points);
-            penPosition = new Point(penPosition.X + width, penPosition.Y + width);
-            semaphore.Release();
-        }
-
-        public void FillCircle(int radius, Color fillColor)
-        {
-            semaphore.Wait();
-            var brush = new SolidBrush(fillColor);
-            drawingGraphics.FillEllipse(brush, penPosition.X, penPosition.Y, radius * 2, radius * 2);
-            penPosition = new Point(penPosition.X + radius * 2, penPosition.Y);
-            semaphore.Release();
         }
         /// <summary>
         /// Rotates a rectangle drawn on the graphics object.

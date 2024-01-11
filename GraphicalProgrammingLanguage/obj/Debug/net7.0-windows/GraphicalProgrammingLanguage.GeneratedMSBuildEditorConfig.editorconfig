@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GraphicalProgrammingLanguage
-build_property.ProjectDir = C:\Users\NwaEri\Desktop\ASE_Project\GraphicalProgrammingLanguage\
+build_property.ProjectDir = C:\Users\NwaEri\source\repos\ASE2\GraphicalProgrammingLanguage\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

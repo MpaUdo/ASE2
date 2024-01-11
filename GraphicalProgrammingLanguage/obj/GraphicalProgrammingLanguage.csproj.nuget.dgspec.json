@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NwaEri\\Desktop\\ASE_Project\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj": {}
+    "C:\\Users\\NwaEri\\source\\repos\\ASE2\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NwaEri\\Desktop\\ASE_Project\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj": {
+    "C:\\Users\\NwaEri\\source\\repos\\ASE2\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NwaEri\\Desktop\\ASE_Project\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj",
+        "projectUniqueName": "C:\\Users\\NwaEri\\source\\repos\\ASE2\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj",
         "projectName": "GraphicalProgrammingLanguage",
-        "projectPath": "C:\\Users\\NwaEri\\Desktop\\ASE_Project\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj",
+        "projectPath": "C:\\Users\\NwaEri\\source\\repos\\ASE2\\GraphicalProgrammingLanguage\\GraphicalProgrammingLanguage.csproj",
         "packagesPath": "C:\\Users\\NwaEri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NwaEri\\Desktop\\ASE_Project\\GraphicalProgrammingLanguage\\obj\\",
+        "outputPath": "C:\\Users\\NwaEri\\source\\repos\\ASE2\\GraphicalProgrammingLanguage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
